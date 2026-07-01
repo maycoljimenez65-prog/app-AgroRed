@@ -1,20 +1,19 @@
-# AGRORED
+📱 AGRORED
 
-Aplicación Android para el registro y control de jornadas agrícolas.
+✔ Última versión: v1.0.1
 
-## Descargar
+🟢 Descargar APK
+⬇
+[BOTÓN]
 
-La versión más reciente se encuentra en la sección **Releases** de este repositorio.
+📋 Cambios de la versión
 
-## Versiones
+- Corrección de navegación.
+- Mejoras de estabilidad.
+- Corrección de bugs.
 
-| Versión | Estado |
-|---------|--------|
-| v1.0.1 | Actual |
-| v1.0.0 | Inicial |
+📸 Capturas
 
-## Novedades de la versión 1.0.1
+(imágenes)
 
-- Corrección de errores al iniciar una jornada.
-- Mejoras en la navegación.
-- Mayor estabilidad en producción.
+📄 Historial de versiones
