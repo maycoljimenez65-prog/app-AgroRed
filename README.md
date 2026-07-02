@@ -33,15 +33,14 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 # 📸 Capturas
 
-> *(Aquí puedes agregar imágenes de la aplicación)*
 
 | Login | Dashboard |
 |-------|-----------|
-| ![](screenshots/login.png) | ![](screenshots/dashboard.png) |
+| ![](screenshots/login.jpg) | ![](screenshots/dashboard.jpg) |
 
 | Nuevo Día | Cobros |
 |-----------|--------|
-| ![](screenshots/nuevo_dia.png) | ![](screenshots/cobros.png) |
+| ![](screenshots/nuevo_dia.jpg) | ![](screenshots/cobros.jpg) |
 
 ---
 
