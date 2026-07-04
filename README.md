@@ -1,5 +1,4 @@
-[![Descargar APK](https://img.shields.io/badge/📥%20Descargar-v2.0.0-success?style=for-the-badge)]([https://github.com/TU_USUARIO/TU_REPOSITORIO](https://github.com/maycoljimenez65-prog/app-AgroRed/releases/latest)
-
+[![Descargar APK](https://img.shields.io/badge/📥%20Descargar-v2.0.0-success?style=for-the-badge)](https://github.com/maycoljimenez65-prog/app-Agrored/releases/latest)
 # 🌿 AGRORED
 
 Aplicación Android para la gestión y control de jornadas agrícolas.
