@@ -1,4 +1,5 @@
-[![Descargar APK](https://img.shields.io/badge/📥%20Descargar-Última%20Versión-success?style=for-the-badge)](https://github.com/TU_USUARIO/TU_REPOSITORIO/releases/latest)
+[![Descargar APK](https://img.shields.io/badge/📥%20Descargar-v2.0.0-success?style=for-the-badge)]([https://github.com/TU_USUARIO/TU_REPOSITORIO](https://github.com/maycoljimenez65-prog/app-AgroRed/releases/latest)
+
 # 🌿 AGRORED
 
 Aplicación Android para la gestión y control de jornadas agrícolas.
@@ -7,32 +8,34 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 # 📱 Última versión
 
-## 🟢 AGRORED v1.0.1
+## 🟢 AGRORED v2.0.0
 
 ### 📥 Descargar APK
 
-> **👉 https://github.com/TU_USUARIO/TU_REPOSITORIO/releases/latest**
+👉 **https://github.com/maycoljimenez65-prog/app-AgroRed/releases/latest**
 
 ---
 
-# ✨ Novedades de la versión 1.0.1
+# 🚀 Novedades de la versión 2.0.0
 
-### 🛠 Correcciones
+## 🌟 Nueva funcionalidad principal
 
-- Solucionado un problema al iniciar una nueva jornada.
-- Mejorada la navegación entre Dashboard y Nuevo Día.
-- Eliminado un cierre prematuro de Activity.
-- Mayor estabilidad al utilizar servidores Render + Aiven.
+- ✅ Implementación del **modo Offline**.
+- ✅ La aplicación funciona sin conexión a Internet.
+- ✅ Los registros se almacenan localmente en el dispositivo.
+- ✅ Sincronización manual con la nube para respaldar la información.
+- ✅ Mayor estabilidad en zonas con poca o nula cobertura de Internet.
 
-### ⚡ Mejoras
+## ⚡ Mejoras
 
-- Optimización del flujo entre pantallas.
-- Mejor sincronización con el servidor.
+- Optimización del rendimiento general.
+- Mejor experiencia de usuario.
+- Mayor velocidad de respuesta.
+- Corrección de errores menores detectados en versiones anteriores.
 
 ---
 
 # 📸 Capturas
-
 
 | Login | Dashboard |
 |-------|-----------|
@@ -48,15 +51,28 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 | Versión | Estado | Fecha |
 |---------|--------|--------|
-| 🟢 v1.0.1 | Actual | 01/07/2026 |
+| 🟢 v2.0.0 | Actual | 04/07/2026 |
+| 🔵 v1.0.1 | Corrección de errores y mejoras de estabilidad | 01/07/2026 |
 | ⚪ v1.0.0 | Primera versión estable | 27/06/2026 |
+
+---
+
+# 📲 Características principales
+
+- 👨‍🌾 Gestión de contratistas.
+- 📅 Registro de jornadas diarias.
+- 📝 Registro de apuntes de trabajo.
+- 💰 Gestión de cobros y pagos.
+- 📊 Historial de registros.
+- ☁️ Sincronización manual con la nube.
+- 📴 Funcionamiento completamente Offline.
 
 ---
 
 # 📲 Requisitos
 
 - Android 8.0 (API 26) o superior.
-- Conexión a Internet.
+- Internet únicamente para sincronizar los datos con la nube.
 
 ---
 
@@ -68,6 +84,6 @@ Proyecto desarrollado para facilitar el registro y control de trabajos agrícola
 
 ---
 
-# ⭐ ¿Te gustó el proyecto?
+# ⭐ ¿Te gustó AGRORED?
 
-Si AGRORED te fue útil, considera dejar una ⭐ en este repositorio.
+Si AGRORED te fue útil, considera dejar una ⭐ en este repositorio y compartir la aplicación.
