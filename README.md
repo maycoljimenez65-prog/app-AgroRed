@@ -1,4 +1,5 @@
-[![Descargar APK](https://img.shields.io/badge/📥%20Descargar-v2.0.0-success?style=for-the-badge)](https://github.com/maycoljimenez65-prog/app-Agrored/releases/latest)
+[![Descargar APK](https://img.shields.io/badge/📥%20Descargar-v2.1.0-success?style=for-the-badge)](https://github.com/maycoljimenez65-prog/app-AgroRed/releases/latest)
+
 # 🌿 AGRORED
 
 Aplicación Android para la gestión y control de jornadas agrícolas.
@@ -7,7 +8,7 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 # 📱 Última versión
 
-## 🟢 AGRORED v2.0.0
+## 🟢 AGRORED v2.1.0
 
 ### 📥 Descargar APK
 
@@ -15,22 +16,22 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 ---
 
-# 🚀 Novedades de la versión 2.0.0
+# 🚀 Novedades de la versión 2.1.0
 
-## 🌟 Nueva funcionalidad principal
+## 🔐 Nuevo sistema de acceso rápido
 
-- ✅ Implementación del **modo Offline**.
-- ✅ La aplicación funciona sin conexión a Internet.
-- ✅ Los registros se almacenan localmente en el dispositivo.
-- ✅ Sincronización manual con la nube para respaldar la información.
-- ✅ Mayor estabilidad en zonas con poca o nula cobertura de Internet.
+- ✅ Implementación de autenticación mediante **PIN de seguridad**.
+- ✅ Compatibilidad con **huella dactilar** en dispositivos que la soportan.
+- ✅ Después del primer inicio de sesión, ya no es necesario volver a ingresar usuario y contraseña.
+- ✅ El acceso mediante PIN o huella funciona **100% Offline**.
+- ✅ La sesión permanece activa hasta que el usuario decida cerrar sesión manualmente.
 
-## ⚡ Mejoras
+## 🌟 Mejoras
 
-- Optimización del rendimiento general.
-- Mejor experiencia de usuario.
-- Mayor velocidad de respuesta.
-- Corrección de errores menores detectados en versiones anteriores.
+- Mejor experiencia de acceso para el usuario.
+- Se corrigió el problema que obligaba a iniciar sesión nuevamente al cerrar la aplicación sin conexión a Internet.
+- Optimización del flujo de autenticación para dispositivos sin conectividad.
+- Mayor estabilidad y rapidez al abrir la aplicación.
 
 ---
 
@@ -50,8 +51,9 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 | Versión | Estado | Fecha |
 |---------|--------|--------|
-| 🟢 v2.0.0 | Actual | 04/07/2026 |
-| 🔵 v1.0.1 | Corrección de errores y mejoras de estabilidad | 01/07/2026 |
+| 🟢 v2.1.0 | Actual | 04/07/2026 |
+| 🔵 v2.0.0 | Implementación del modo Offline y sincronización manual | 04/07/2026 |
+| 🟣 v1.0.1 | Corrección de errores y mejoras de estabilidad | 01/07/2026 |
 | ⚪ v1.0.0 | Primera versión estable | 27/06/2026 |
 
 ---
@@ -63,8 +65,10 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 - 📝 Registro de apuntes de trabajo.
 - 💰 Gestión de cobros y pagos.
 - 📊 Historial de registros.
-- ☁️ Sincronización manual con la nube.
 - 📴 Funcionamiento completamente Offline.
+- ☁️ Sincronización manual con la nube.
+- 🔐 Acceso mediante PIN de seguridad.
+- 👆 Compatibilidad con autenticación biométrica (huella dactilar).
 
 ---
 
@@ -72,6 +76,7 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 - Android 8.0 (API 26) o superior.
 - Internet únicamente para sincronizar los datos con la nube.
+- Sensor biométrico (opcional) para utilizar el acceso por huella.
 
 ---
 
