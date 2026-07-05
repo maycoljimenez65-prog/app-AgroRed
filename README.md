@@ -39,11 +39,11 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 | Login | Dashboard |
 |-------|-----------|
-| ![](screenshots/login.jpg) | ![](screenshots/dashboard.jpg) |
+| ![](screenshots/login.jpg) | ![](screenshots/login_v2.jpg) |
 
 | Nuevo Día | Cobros |
 |-----------|--------|
-| ![](screenshots/nuevo_dia.jpg) | ![](screenshots/cobros.jpg) |
+| ![](screenshots/nuevo_dia_v2.jpg) | ![](screenshots/cobros.jpg) |
 
 ---
 
