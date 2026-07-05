@@ -16,7 +16,7 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 ---
 
-# 🚀 Novedades de la versión 2.1.0
+# 🚀 Novedades de la versión 2.1.2
 
 ## 🔐 Nuevo sistema de acceso rápido
 
