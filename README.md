@@ -37,13 +37,17 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 # 📸 Capturas
 
-| Login | Dashboard |
+| Login 1 vez | Despues de inicar sesion |
 |-------|-----------|
-| ![](screenshots/login.jpg) | ![](screenshots/login_v2.jpg) |
+| ![](screenshots/login.jpg) | ![](screenshots/despues_de_login.jpg) |
 
-| Nuevo Día | Cobros |
+| Dashboard | Nuevo Dia |
 |-----------|--------|
-| ![](screenshots/nuevo_dia_v2.jpg) | ![](screenshots/cobros.jpg) |
+| ![](screenshots/login_v2.jpg) | ![](screenshots/nuevo_dia_v2.jpg) |
+
+| Registros | Cobros |
+|-----------|--------|
+| ![](screenshots/registros.jpg) | ![](screenshots/cobros.jpg) |
 
 ---
 
