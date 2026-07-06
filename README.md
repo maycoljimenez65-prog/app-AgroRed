@@ -1,5 +1,10 @@
 [![Descargar APK](https://img.shields.io/badge/📥%20Descargar-v2.1.2-success?style=for-the-badge)](https://github.com/maycoljimenez65-prog/app-AgroRed/releases/latest)
+## 🚀 Próximo lanzamiento: AGRORED v3.0
 
+Estamos trabajando en una nueva actualización enfocada en **mejorar el rendimiento y la velocidad de respuesta en tiempo real (Realtime)** para ofrecer una experiencia aún más rápida y fluida.
+
+Nuestro objetivo es lanzar **AGRORED v3.0** lo antes posible. Mientras tanto, seguiremos publicando actualizaciones de la rama **v2.x**, corrigiendo errores, optimizando el rendimiento e incorporando mejoras sugeridas por nuestros usuarios.
+💚 Gracias por acompañarnos en el crecimiento de AGRORED. Mantente atento a nuestros próximos lanzamientos y actualizaciones constantes.
 # 🌿 AGRORED
 
 Aplicación Android para la gestión y control de jornadas agrícolas.
