@@ -63,7 +63,7 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 <td align="center"><b>Dashboard</b></td>
 </tr>
 <tr>
-<td><img src="screenshots/nuevo_dia_v2.jpg" width="220"></td>
+<td><img src="screenshots/nuevo_dia.jpg" width="220"></td>
 <td><img src="screenshots/registros.jpg" width="220"></td>
 <td><img src="screenshots/cobros.jpg" width="220"></td>
 </tr>
@@ -73,7 +73,20 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 <td align="center"><b>Registros</b></td>
 <td align="center"><b>Cobros</b></td>
 </tr>
+
+<tr>
+<td><img src="screenshots/cobrar.jpg" width="220"></td>
+<td><img src="screenshots/reporte.jpg" width="220"></td>
+<td><img src="screenshots/apuntes_dia.jpg" width="220"></td>
+</tr>
+
+<tr>
+<td align="center"><b>Cobrar</b></td>
+<td align="center"><b>Ver Reporte de Cobro</b></td>
+<td align="center"><b>Apuntes del Dia</b></td>
+</tr>
 </table>
+
 
 ---
 
