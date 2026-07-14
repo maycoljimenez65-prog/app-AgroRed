@@ -132,7 +132,9 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 # 👨‍💻 Desarrollador
 
 **Michael Jimenez Ugarte**
+
 Frase de inspiracion:"Un buen desarrollador no se define por la cantidad de código que escribe, sino por la cantidad de problemas que resuelve sin crear otros nuevos."
+
 Proyecto desarrollado para facilitar el registro y control de trabajos agrícolas desde dispositivos Android, con funcionamiento Offline y sincronización segura de la información.
 
 ---
