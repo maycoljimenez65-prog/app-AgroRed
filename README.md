@@ -1,4 +1,4 @@
-[![Descargar APK](https://img.shields.io/badge/📥%20Descargar-v2.3.2-success?style=for-the-badge)](https://github.com/maycoljimenez65-prog/app-AgroRed/releases/latest)
+[![Descargar APK](https://img.shields.io/badge/📥%20Descargar-v2.4.0-success?style=for-the-badge)](https://github.com/maycoljimenez65-prog/app-AgroRed/releases/latest)
 
 ## 🚀 Próximo lanzamiento: AGRORED v3.0
 
@@ -16,7 +16,7 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 # 📱 Última versión
 
-## 🟢 AGRORED v2.3.2
+## 🟢 AGRORED v2.4.0
 
 ### 📥 Descargar APK
 
@@ -24,39 +24,23 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 ---
 
-# 🚀 Novedades de la versión 2.3.2
+# 🚀 Novedades de la versión 2.4.0
 
-## 🛠 Correcciones
+## ✨ Nuevas funcionalidades
 
-- ✅ Corrección de errores reportados por los usuarios.
-- ✅ Ajustes en diferentes procesos internos.
+- ✅ Nuevo apartado para cuadrar cuentas antes de realizar un cobro.
+- ✅ Posibilidad de revisar y editar los registros antes de confirmar el pago.
 
 ## ⚡ Mejoras
 
-- ✅ Optimización del rendimiento general.
-- ✅ Mayor estabilidad durante el uso de la aplicación.
-- ✅ Mejor experiencia de usuario.
+- ✅ Renovación de la interfaz del módulo de cobros.
+- ✅ Flujo de trabajo más intuitivo durante el proceso de cobro.
+- ✅ Mejor organización de la información antes de registrar un pago.
+
+## 🛠 Correcciones
+
+- ✅ Ajustes menores y optimización del funcionamiento general.
   
-## 🎨 Mejoras en la interfaz
-
-- ✅ Rediseño de diferentes pantallas para ofrecer una experiencia más cómoda y agradable.
-- ✅ Reorganización de elementos visuales para facilitar el uso de la aplicación.
-- ✅ Mejor distribución de la información en varias secciones.
-
-## 📋 Gestión de información
-
-- ✅ Se añadieron nuevos campos informativos en la vista de contratistas.
-- ✅ Ahora es posible visualizar información más completa de cada contratista.
-- ✅ Se incorporaron campos adicionales al registrar los apuntes diarios.
-- ✅ Mejor organización de los datos registrados durante la jornada laboral.
-
-## ⚡ Mejoras generales
-
-- ✅ Interfaz más intuitiva y fácil de utilizar.
-- ✅ Corrección de pequeños errores reportados por los usuarios.
-- ✅ Optimización de la experiencia de navegación.
-- ✅ Mayor estabilidad general de la aplicación.
-
 ---
 
 # 📸 Capturas
@@ -105,6 +89,7 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 | Versión | Estado | Fecha |
 |---------|--------|--------|
+| 🟢 v2.4.0 | Nuevo apartado para cuadrar cuentas y mejoras en el módulo de cobros | 04/08/2026 |
 | 🟢 v2.3.1 | Mejoras de usabilidad, Corrección de errores  | 10/07/2026 |
 | 🟢 v2.3.0 | Renovación visual, nuevos campos informativos y mejoras de usabilidad | 09/07/2026 |
 | 🟢 v2.2.0 | Estabilidad del modo Offline y mejoras del servicio de respaldo en tiempo real | 08/07/2026 |
