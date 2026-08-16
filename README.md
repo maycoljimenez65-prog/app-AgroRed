@@ -1,4 +1,4 @@
-[![Descargar APK](https://img.shields.io/badge/📥%20Descargar-v2.4.0-success?style=for-the-badge)](https://github.com/maycoljimenez65-prog/app-AgroRed/releases/latest)
+[![Descargar APK](https://img.shields.io/badge/📥%20Descargar-v2.5.0-success?style=for-the-badge)](https://github.com/maycoljimenez65-prog/app-AgroRed/releases/latest)
 
 ## 🚀 Próximo lanzamiento: AGRORED v3.0
 
@@ -16,7 +16,7 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 # 📱 Última versión
 
-## 🟢 AGRORED v2.4.0
+## 🟢 AGRORED v2.5.0
 
 ### 📥 Descargar APK
 
@@ -24,13 +24,17 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 ---
 
-# 🚀 Novedades de la versión 2.4.0
+# 🚀 Novedades de la versión v2.5.0
 
 ## ✨ Nuevas funcionalidades
 
+- 🔐 Inicio de sesión mediante cuenta de Google.
+- 👤 Integración del acceso con cuentas registradas desde la plataforma web.
+- 🔑 Mantiene el acceso rápido mediante PIN o huella después del primer inicio de sesión.
+- 🛠️ Corrección de errores y mejoras generales de estabilidad.
 - ✅ Nuevo apartado para cuadrar cuentas antes de realizar un cobro.
 - ✅ Posibilidad de revisar y editar los registros antes de confirmar el pago.
-
+  
 ## ⚡ Mejoras
 
 - ✅ Renovación de la interfaz del módulo de cobros.
@@ -89,6 +93,7 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 
 | Versión | Estado | Fecha |
 |---------|--------|--------|
+| 🟢 v2.5.0 | Inicio de sesión con Google y mejoras de estabilidad | 16/08/2026 |
 | 🟢 v2.4.0 | Nuevo apartado para cuadrar cuentas y mejoras en el módulo de cobros | 04/08/2026 |
 | 🟢 v2.3.1 | Mejoras de usabilidad, Corrección de errores  | 10/07/2026 |
 | 🟢 v2.3.0 | Renovación visual, nuevos campos informativos y mejoras de usabilidad | 09/07/2026 |
@@ -109,6 +114,7 @@ Aplicación Android para la gestión y control de jornadas agrícolas.
 - 📝 Registro de apuntes de trabajo.
 - 💰 Gestión de cobros y pagos.
 - 📊 Historial de registros.
+- 🔐 Inicio de sesión mediante cuenta de Google.
 - 📴 Funcionamiento completamente Offline.
 - ☁️ Sincronización manual con la nube.
 - 🔄 Respaldo de información mediante servicio Realtime.
